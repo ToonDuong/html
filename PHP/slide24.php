@@ -1,8 +1,8 @@
 <?php
-    $longAccount = 10.000.000;
-    echo "So tien trong tai khoan Long: $longAccount";
+    $duongAccount = 10.000.000;
+    echo "So tien trong tai khoan Long: $duongAccount";
     $HUMGPay = 10.000.000;
     echo "HUMG chuyen tien: $HUMGPay";
-    $longAccount = $longAccount + $HUMGPay;
-    echo "So tien trong tai khoang Long: $longAccount";
+    $duongAccount = $duongAccount + $HUMGPay;
+    echo "So tien trong tai khoang Long: $duongAccount";
 ?>
