@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 
 <?php
 
@@ -21,5 +19,3 @@ if ($_GET["currency"] == "USD") {
 
 echo " VND";
 ?>
-
-</html>

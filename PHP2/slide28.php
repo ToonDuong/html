@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <?php
 $exchangeRate = array(22300, 27300, 17000, 120);
 $exchangeRate[] = 600;
@@ -13,5 +12,3 @@ echo "JPY: $exchangeRate[3]<br>";
 echo "CHN: $exchangeRate[4]<br>";
 echo "AUD: $exchangeRate[5]<br>";
 ?>
-
-</html>
